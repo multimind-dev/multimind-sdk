@@ -189,5 +189,5 @@ MultiMind SDK is developed and maintained by the MultiMind team. Visit [multimin
 ---
 
 <p align="center">
-  Made with ❤️ by the MultiMind Team
+  Made with ❤️ by the Ai2innovate Team
 </p>
