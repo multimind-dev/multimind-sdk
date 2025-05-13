@@ -1,9 +1,10 @@
 ---
 name: Feature Request
 about: Suggest an idea for this project
-title: '[FEATURE] '
+title: "[FEATURE] "
 labels: enhancement
 assignees: ''
+
 ---
 
 ## Feature Description
@@ -38,4 +39,4 @@ Add any other context, screenshots, or mockups about the feature request here.
 - [ ] I have checked the [documentation](https://multimind-sdk.readthedocs.io/) for relevant information
 - [ ] I have provided a clear problem statement and use cases
 - [ ] I have described potential implementation approaches
-- [ ] I have added appropriate labels to this issue 
+- [ ] I have added appropriate labels to this issue
